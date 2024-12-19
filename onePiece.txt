@@ -3,3 +3,4 @@ zoro
 nami
 ussop
 sanji
+chopper
